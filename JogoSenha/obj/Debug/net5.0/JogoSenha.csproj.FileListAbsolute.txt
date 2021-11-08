@@ -1,0 +1,16 @@
+C:\Users\wtcas\source\repos\JogoSenha\JogoSenha\bin\Debug\net5.0\JogoSenha.exe
+C:\Users\wtcas\source\repos\JogoSenha\JogoSenha\bin\Debug\net5.0\JogoSenha.deps.json
+C:\Users\wtcas\source\repos\JogoSenha\JogoSenha\bin\Debug\net5.0\JogoSenha.runtimeconfig.json
+C:\Users\wtcas\source\repos\JogoSenha\JogoSenha\bin\Debug\net5.0\JogoSenha.runtimeconfig.dev.json
+C:\Users\wtcas\source\repos\JogoSenha\JogoSenha\bin\Debug\net5.0\JogoSenha.dll
+C:\Users\wtcas\source\repos\JogoSenha\JogoSenha\bin\Debug\net5.0\ref\JogoSenha.dll
+C:\Users\wtcas\source\repos\JogoSenha\JogoSenha\bin\Debug\net5.0\JogoSenha.pdb
+C:\Users\wtcas\source\repos\JogoSenha\JogoSenha\obj\Debug\net5.0\JogoSenha.csproj.AssemblyReference.cache
+C:\Users\wtcas\source\repos\JogoSenha\JogoSenha\obj\Debug\net5.0\JogoSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtcas\source\repos\JogoSenha\JogoSenha\obj\Debug\net5.0\JogoSenha.AssemblyInfoInputs.cache
+C:\Users\wtcas\source\repos\JogoSenha\JogoSenha\obj\Debug\net5.0\JogoSenha.AssemblyInfo.cs
+C:\Users\wtcas\source\repos\JogoSenha\JogoSenha\obj\Debug\net5.0\JogoSenha.csproj.CoreCompileInputs.cache
+C:\Users\wtcas\source\repos\JogoSenha\JogoSenha\obj\Debug\net5.0\JogoSenha.dll
+C:\Users\wtcas\source\repos\JogoSenha\JogoSenha\obj\Debug\net5.0\ref\JogoSenha.dll
+C:\Users\wtcas\source\repos\JogoSenha\JogoSenha\obj\Debug\net5.0\JogoSenha.pdb
+C:\Users\wtcas\source\repos\JogoSenha\JogoSenha\obj\Debug\net5.0\JogoSenha.genruntimeconfig.cache
